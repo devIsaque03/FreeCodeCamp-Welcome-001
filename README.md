@@ -26,6 +26,9 @@ Este projeto foi desenvolvido como parte dos meus estudos sobre **HTML**,com o o
 <h2>...</h2> <!-- Subtítulo com foco no conteúdo -->
 <h3>...<h3> <!-- Seções introdutórias (ex: HTML, CSS, JS) -->
 <p>...</p>   <!-- Texto explicativo sobre o conteúdo -->
+```
+
+---
 
 ## 👨‍💻 Autor
 
